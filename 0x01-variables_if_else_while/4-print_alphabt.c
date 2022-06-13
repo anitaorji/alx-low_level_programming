@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Print letters except for q and e. 
+ * main - Print letters except q and e
  *
  * Return: Always 0.
  */
