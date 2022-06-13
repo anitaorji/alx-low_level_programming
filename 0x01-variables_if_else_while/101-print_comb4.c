@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints all possible combinations of three different digits,
- * 	in ascending order, seperated by a comma followed by a space.
+ * main - Print different three digits
  *
  * Return: Always 0.
  */
