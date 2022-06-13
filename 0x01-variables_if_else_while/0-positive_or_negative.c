@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /**
- *  main - Prints a random number and state whether
- *         it is positive, negative or zero. 
+ * main - Prints a random number and state whether
+ *        it is positive, negative or zero. 
  *
- *  Return: (0)
+ * Return: (0)
  */
 int main(void)
 {
@@ -23,9 +23,9 @@ int main(void)
 	{
 		printf("%d is negative\n", n);
 	}
-	else if (n==0)
+	else if (n == 0)
 	{
 		printf("%d is zero\n", n);
 	}
-	return(0);
+	return (0);
 }
