@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - Print alphabet except q and e 
- *
+ * main - Print all letters except q and e
+ *  
  * Return: Always 0.
  */
 int main(void)
@@ -18,3 +18,4 @@ int main(void)
 
 	return (0);
 }
+
