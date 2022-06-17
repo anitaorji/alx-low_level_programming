@@ -2,7 +2,8 @@
 
 /**
  * main - entry
- *
+ * @dest: A pointer to the string to be cncatenated upon.
+ * @src: The source string to be appended to by @dest
  * Return: a pointer to the destination
  */
 char *strcat(char *dest, const char *src)
